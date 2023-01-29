@@ -6,9 +6,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h2>
+          Hi 
+        </h2>
+        <h1>
+          I am MONGCHAW 
+        </h1>
         <p>
-          Hi I am Mongchaw
-          and this is my little website that I will update some day!
+        <br />
+          This is my little website that I will update some day!
+         <br />
           For your information this is a webapp that uses reactjs.
         </p>
       </header>
