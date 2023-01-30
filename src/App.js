@@ -10,7 +10,7 @@ function App() {
           Hi 
         </h2>
         <br />
-        <h1 class="text-xl">
+        <h1>
           I am MONGCHAW 
         </h1>
         <br />
