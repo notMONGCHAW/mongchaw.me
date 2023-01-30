@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <div class="flex">
-        <img src={logo} class="flex-none border" className="App-logo" alt="logo" />
+        <img src={logo} class="flex-none border" className="App-logo border" alt="logo" />
         <img src={tailwindLogo} class="flex-1 animate-bounce border" alt="logo" />
       </div>
         <h2>
