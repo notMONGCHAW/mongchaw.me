@@ -17,6 +17,14 @@ function App() {
         <p>
           I will update this website some day in the future !!
         </p>
+        <br />
+        <div>
+        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" type="button">
+          <a href='https://github.com/MONGCHAW/mongchaw.me'>
+          Check Out the Github Repo
+          </a>
+        </button>
+      </div>
       </header>
     </div>
   );
