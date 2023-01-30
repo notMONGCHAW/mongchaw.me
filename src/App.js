@@ -14,9 +14,8 @@ function App() {
         </h1>
         <p>
           This is my little website that I will update some day!
-          <span>
+          <br/>
           For your information this is a webapp that uses reactjs.
-          </span>
         </p>
       </header>
     </div>
