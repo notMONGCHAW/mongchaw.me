@@ -15,7 +15,6 @@ function App() {
         <p>
         <br />
           This is my little website that I will update some day!
-         <br />
           For your information this is a webapp that uses reactjs.
         </p>
       </header>
