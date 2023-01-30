@@ -13,7 +13,7 @@ function App() {
           I am MONGCHAW 
         </h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I will update this website some day in the future !!
         </p>
       </header>
     </div>
