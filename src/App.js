@@ -13,9 +13,10 @@ function App() {
           I am MONGCHAW 
         </h1>
         <p>
-        <br />
-          This is my little website that I will update some day!
-          For your information this is a webapp that uses reactjs.
+        <span>
+        This is my little website that I will update some day!
+        For your information this is a webapp that uses reactjs.      
+        </span>
         </p>
       </header>
     </div>
