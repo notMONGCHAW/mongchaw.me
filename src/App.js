@@ -6,14 +6,25 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div class="flex">
-          <img src={logo} class="flex-none " className="App-logo" alt="logo" />
-          <img
-            src={tailwindLogo}
-            class="misc-logo flex-1 animate-bounce"
-            alt="logo"
-          />
-        </div>
+      <div class="flex">
+        <img src={logo} class="flex-none border" className="App-logo border" alt="logo" />
+        <img src={tailwindLogo} class="flex-1 animate-bounce border" alt="logo" />
+      </div>
+        <h2>
+          Hi 
+        </h2>
+        <br />
+        <h1>
+          I am MONGCHAW 
+        </h1>
+        <br />
+        <p class="animate-pulse">
+          This site uses react.js and tailwindcss
+        </p>
+        <p>
+          I will update this website some day in the future !!
+        </p>
+        <br />
         <div>
           <h1 class="text-5xl">Hi</h1>
           <h1 class="text-3xl space-x-4">I am MONGCHAW</h1>
