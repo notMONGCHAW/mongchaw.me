@@ -9,9 +9,11 @@ function App() {
         <h2>
           Hi 
         </h2>
-        <h1>
+        <br />
+        <h1 class="text-xl">
           I am MONGCHAW 
         </h1>
+        <br />
         <p>
           I will update this website some day in the future !!
         </p>
