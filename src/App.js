@@ -1,11 +1,15 @@
 import logo from './logo.svg';
+import tailwindLogo from './Tailwind_CSS_Logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <div class="flex">
+        <img src={logo} class="flex-none" className="App-logo" alt="logo" />
+        <img src={tailwindLogo} class="flex-1 animate-bounce" alt="logo" />
+      </div>
         <h2>
           Hi 
         </h2>
@@ -14,6 +18,9 @@ function App() {
           I am MONGCHAW 
         </h1>
         <br />
+        <p class="animate-pulse">
+          This site uses react.js and tailwindcss
+        </p>
         <p>
           I will update this website some day in the future !!
         </p>
