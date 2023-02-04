@@ -49,7 +49,7 @@ function App() {
               class="bg-purple-700 hover:bg-purple-500 text-white font-bold py-2 px-4 rounded space-x-4"
               type="button"
             >
-              <a href="https://therickroll.com/">
+              <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                 A cool website with no HTML (firefox only)
               </a>
             </button>
