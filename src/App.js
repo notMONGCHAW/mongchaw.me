@@ -9,7 +9,7 @@ function App() {
         <div class="flex">
         </div>
         <div>
-          <p>If you are here the subdomin of this website is being working</p>
+          <p>If you are here the subdomin of this website is working</p>
           <p>Check Back Later</p>
         </div>
       </header>
