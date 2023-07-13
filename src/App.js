@@ -20,7 +20,8 @@ function App() {
           <h1 class="text-3xl space-x-4">I am MONGCHAW</h1>
           <br />
           <p class="animate-pulse">This site uses react.js and tailwindcss</p>
-          <p>I will update this website some day in the future !!</p>
+          <p>If you are here the website is being updated</p>
+          <p>Check Back Later</p>
           <br />
           <div>
             <button
